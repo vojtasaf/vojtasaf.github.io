@@ -1,56 +1,35 @@
-# Set theme
-remote_theme: daviddarnes/alembic
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# File excludes
-exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
 
-# Set plugins
-plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-default-layout
-- jekyll-feed
-- jemoji
-- jekyll-remote-theme
-
-# Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+# Build settings
+markdown: kramdown
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
 
-# Pagination
 paginate: 5
-paginate_path: blog/page:num
+paginate_path: "/page/:num"
 
-# Header nav
-navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
 
-# Footer nav
-navigation_footer:
-- title: Back to top
-  url: "#top"
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
 
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+include:
+  - _pages
+
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
