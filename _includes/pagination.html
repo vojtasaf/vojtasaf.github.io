@@ -5,13 +5,13 @@
       {% if paginator.previous_page %}
       
       {% if paginator.previous_page == 1 %}
-        <a class="previous-link" href="/">Prev Posts</a>
+        <a class="previous-link" href="/">Previous Posts</a>
       {% else %}
-        <a class="previous-link" href="/page/{{ paginator.previous_page }}/">Prev Posts</a>
+        <a class="previous-link" href="/page/{{ paginator.previous_page }}/">Previous Posts</a>
       {% endif %}
       
       {% else %}
-        <span class="disabled">Prev Posts</span>
+        <span class="disabled">Previous Posts</span>
       {% endif %}
 
       <div class="counter-box">
