@@ -10,7 +10,7 @@ While writing my thesis on the development process of mobile banking in [Komerč
 I’ve been given a task to prototype the “Pay me” functionality. The aim of this feature was to enable a user to request money easily by sharing a QR code that links directly to payment in the mobile banking app. First I took a close look at a solutions of our **competitors** that have already implemented the feature:
 
 <div class="wrapper">
-<img src="/images/moneta1.png" class="align-center" width="30%"> <img src="/images/moneta2.png" class="align-center" width="30%">
+<img src="/images/moneta1.PNG" class="align-center" width="30%"> <img src="/images/moneta2.PNG" class="align-center" width="30%">
 </div>
 *<center>"Pay me" feature in Smart Banka (Moneta)</center>*
 

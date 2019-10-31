@@ -3,7 +3,7 @@
 <p>I’ve been given a task to prototype the “Pay me” functionality. The aim of this feature was to enable a user to request money easily by sharing a QR code that links directly to payment in the mobile banking app. First I took a close look at a solutions of our <strong>competitors</strong> that have already implemented the feature:</p>
 
 <div class="wrapper">
-<img src="/images/moneta1.png" class="align-center" width="30%" /> <img src="/images/moneta2.png" class="align-center" width="30%" />
+<img src="/images/moneta1.PNG" class="align-center" width="30%" /> <img src="/images/moneta2.PNG" class="align-center" width="30%" />
 </div>
 <p><em><center>"Pay me" feature in Smart Banka (Moneta)</center></em></p>
 
