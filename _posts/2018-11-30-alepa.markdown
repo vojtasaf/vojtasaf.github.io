@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Alepa City bikes: User research"
+date:   2018-11-30 15:01:35 +0300
+image:  alepa.jpg
+tags:   User Journey Research Personas Stakeholders Mobility
+---
+User-Centered Methods for Product and Service Design is a course that serves as an introduction into our programme when starting at Aalto University. It consists of two parts:
+
+1. Reading of essential materials on the theory & methodology of User Centered Design and writing and essay discussing our own understading of them.
+2. Conducting a customer scene investigation (or as most people would call it - user reasearch) in groups.
+
+In this article I want to focus on the practical user research part. But if you are interested, you can read my essay [here][essay].
+
+Every year there is a different topic for this course and ours was Public transportation. Together with Niina Arvila, Pietari Nurmi and Marie Monkam we were looking at **Alepa City bikes** - a bike sharing service operating in Helsinki and Espoo. In particular we were focusing on how these bikes are used around Aalto University campus at Otaniemi and what do people think of them. 
+
+We conducted 8 **semi-structured interviews**, had users fill our the **SUS questionnaire**, collected 74 answers via an **online survey** and performed **observations** on-site.
+
+We went through all of our interviews, transcribed them, and together with responses to the survey we used them as input by individually writing down quotes, observations and other notable findings on post-its. Afterwards we started to go through the post-its together, grouping them into a **affinity diagram** and naming the categories.
+
+<div class="wrapper">
+<img src="/images/affinity2.jpg" class="align-center" width="45%"> <img src="/images/affinity1.jpg" class="align-center" width="45%">
+</div>
+*<center>Affinity diagram mapping</center>*
+
+Based on our research we created a [stakeholder map][stakeholders], compiled [personas][personas] and mapped the [customer journey][journey].
+
+For a quick summary of our project, methods and findings, take a look at [this poster][poster]. Overall we found out that the usability of Alepa City bikes is quite good with a SUS score of 75/100. People like that they are a healthy, ecological way to commute. They find them easy to use and cheap. However we also identified problems - the station coverage is low, in particular in Otaniemi, and some of the stations are often empty. Sometimes user have issues when returning the bikes.
+
+Thefore we concluded by suggesting to add stations to specific locations (Teekkarikylä at the end of SMT & JMT), outsource moving the bikes to user and provide a support line in case of difficulties when returnign the bikes.
+
+[essay]: /files/UCD essay.pdf
+[stakeholders]: /files/UCD stakeholder map.pdf
+[personas]: /files/UCD personas.pdf
+[journey]: /files/UCD customer journey.pdf
+[poster]: /files/UCD poster.pdf

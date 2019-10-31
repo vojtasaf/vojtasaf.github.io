@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Zaplať mi - Mobile banking feature"
+date:   2018-02-21 15:01:35 +0300
+image:  payme.png
+tags:   Mobile_banking FinTech Prototype Axure
+---
+While writing my thesis on the development process of mobile banking in Komerční banka (one of the major Czech banks), I was mostly assiting the Product Owner, but I also had the chance to work with the UX team.
+
+I’ve been given a task to prototype the “Pay me” functionality. The aim of this feature was to enable user to request money easily by sharing a QR code that links directly to the payment in the mobile banking app. First I took a close look at a solutions of our competitors that have already implemented the feature:
+
+<div class="wrapper">
+<img src="/images/moneta1.png" class="align-center" width="30%"> <img src="/images/moneta2.png" class="align-center" width="30%">
+</div>
+*<center>"Pay me" feature in Smart Banka (Moneta)</center>*
+
+After examining their solutions I went on to create my own design and went through a couple of iterations while consulting it with the UX team.
+
+At the time we were considering whether it would be better to use a simple button or a sticky footer, therefore I created several variants for both Android na iOS in Axure following the internal style guide and using our UI elements kit. You can take a look at them [here][prototype] (Axure Share). 
+
+In addition to the feature being present directly in the app we had an idea of creating a plugin for messaging apps such as iMessage apps or Facebook Messenger. These would allow the user to request money and pay without the need to open the mobile banking app. I proceeded by mapping out the process and created diagrams for user journeys associated with the feature:
+
+* [Requesting money using a messenger][diagram1]
+* [Payment of money requested through a messenger][diagram2]
+* [Payment of money requested in file containing the QR code through share extension][diagram3]
+
+The "Pay me" functionality was implemented only after I left and naturally, the final design is a bit different (as you can see in the cover photo). For example the sticky footer was not used due to higher complexity and development costs. The plugins for messaging apps remained on the backlog.
+
+[prototype]: https://zld26q.axshare.com/
+[diagram1]: /files/Requesting money using a messenger.pdf
+[diagram2]: /files/Payment of money requested through a messenger.pdf
+[diagram3]: /files/Payment of money requested in file containing the QR code through share extension.pdf

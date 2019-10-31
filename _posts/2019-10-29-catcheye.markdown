@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "CatchEye: business design in HelthTech"
+date:   2019-10-29 15:01:35 +0300
+image:  catcheye.png
+tags:   Business_Design HelthTech Pitch
+---
+CatchEye is a solution providing accessible and affordable retina screenings that can detect **diabetic retinopathy** - an eye disease linked to diabetes that can lead to full blindness if left untreated.
+
+I worked on this project with Naima Volz, Filip Finfando, Raschek Schestra and Feiyi Su at **EIT Digital Summer School** in Lisbon with a topic of **Longer Independent Living**, organized by [ISCTE University][iscte] and [BGI][bgi] - a startup accelerator. Together we won the award for "Best Entrepreneurial Team".
+
+<div class="wrapper">
+<img src="/images/certificate.png" class="align-center" width="30%"> <img src="/images/team.jpg" class="align-center" width="50%">
+</div>
+*<center>Say hello to the winners of the Summer School in Lisbon!</center>*
+
+CactchEye is built around a portable 3D printed **EyeFundusScope** developed at [Fraunhofer Portugal][fraunhofer]. This device contains optical lenses allowing a regular smartphone to take an image of a patients retina (the back of their eye).
+
+<div class="wrapper">
+<img src="/images/eyefundusscope.png" class="align-center" width="50%">
+</div>
+*<center>EyeFundusScope by Fraunhofer</center>*
+
+Our task was to come up with a **viable business model** using this technology and turning it into a scaleable startup that would be attractive to investors.
+
+First we had to do extensive **market research** on existing solutions. Part of our team participated in a focus group with seniors while others were taking a close look at our competitors. We conducted interviews with opthamologist at a hospital, called a director of a nursing home in Germany and collected insights that forced us to go back and **rethink** our ideas.
+
+<div class="wrapper">
+<img src="/images/matrix.jpg" class="align-center" width="70%">
+</div>
+*<center>Product x Market matrix with all our initial ideas (yellow) and problems (red)</center>*
+
+We went from a **self-service check-up booth** to considering selling the device to **GPs** (general practicioners). We thought about placing the device in **retirement homes** and also **pharmacies**. For one reason or another, neither of these proved to be a viable option.
+
+It took a lot of dead ends to reach our final idea, but that is also what made much more convincing. We decided to place our device in **Retail Clinics** operating in the **US**. They are a channel providing basic healthcare services at affordable prices. There are already 2800 such locations spread around the US and their market is growing. They are frequented by diabetics, as they already offer diabetes monitoring, but can't provide the eye exam.
+
+Our research has definitely paid off as were able to support our claims with statistics. We explained the scale of a problem by pointing out that a third of all diabetics will develop diabetic retinopathy at some point during the lifetime. Worldwide there are **425 million diabetics** - that's 1 in 11 adults! This number is steadily increasing and all of them are at risk.
+
+A study from the US shows that 60% of diabetics miss their **annual screenings** at an opthalmologist, which is the only way to prevent this condition from developing further. Our device can eliminate the need for an expertise of an opthalmologist by using an **AI algorithm** that can identify sign of diabetic retinopathy in the images caputer by the EyeFundusScope.
+
+The choice of going with the US as a beachhead market was justified by the **high prevalence** of diabetes with 19 million diagnosed cases and a **high price** for an eye exam that can detect diabetic retinopathy at $116 on average.
+
+We took care in polishing our pitch and prepared a good story. As we were pitching to a jury knowledgeable in the healthcare industry we had to be **accurate** - not saying diagnosis, when we mean screening, knowing the difference between an optician, optometrist and an opthalmologist and not confusing FDA premarket notification with the FDA approval.
+
+Everything had to be clear. We designed the slides to be quickly understanable especially when explaining our business model and visualized our plan including the required funding:
+
+<div class="wrapper">
+<img src="/images/slide1.png" class="align-center" width="50%"> <img src="/images/slide2.png" class="align-center" width="49%">
+</div>
+*<center>Our milestones and the associated funding needs</center>*
+
+We calculated the **financials** by estimating the cost of salaries, manufacturing, marketing, consulting etc. I even went through the prices of tests required to apply for the **FDA 510(k) Premarket Notification**, selecting the ones relevant for our Class II medical device. The average wait time of its approval is only one example of what we considered when preparing our milestones.
+
+Based on that we asked for adequate funding to give us enough **runway** to get through several stages of our go-to-market plan. With our calculations we expected to **break-even** in **3 years** and showed the projected revenue for each year after launch.
+
+Naima did a great job delivering the final pitch. And as we expected the jury to ask some questions, we even had a couple of backup slides ready. 
+
+Since we won the Summer School, I got my turn to repeat our **pitch** to serve as an example for the approx. 400 new students at the **EIT Digital Master School Kick-off** in Trento before they started with their business challenge.
+
+<div class="wrapper">
+<img src="/images/kickoff.jpg" class="align-center" width="50%">
+</div>
+*<center>CatchEye pitch at Kick-off</center>*
+
+Given the time we had and the complexity of the healthcare industry I'm proud of what we were able to put together.
+In case that you are still curious about the details of our proposal, take a look at our [report][report].
+
+And if you are a diabetic or know someone who is - **don't skip the eye exams!**
+
+[fraunhofer]: https://www.aicos.fraunhofer.pt/en/home.html
+[iscte]: https://www.iscte-iul.pt/
+[bgi]: https://www.bgi.pt/
+[report]: /files/CatchEye report.pdf

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "AR Basketball: Huawei 48h Hackathon"
+date:   2018-12-20 15:01:35 +0300
+image:  huawei.jpg
+tags:   Hackathon AR Unity
+---
+I teamed up with Thor Galle for the Huawei-Aalto 48h AR Hackathon hosted at the Open Innovation House in Otaniemi. The task at hand was to create an application for the new **Huawei Mate 20 Pro** using the [Huawei AR SDK][sdk] and taking advantage of the features supported by the AR Engine.
+
+This was the first time working in Unity for both of us, so we wanted to see how much we can get done over the weekend.
+We managed to create a simple proof-of-concept of an AR basketball game. The user could place a basket on any wall and then shot balls at it while aiming with the phone. The longer you wait before you release the ball, the more stregth it will have. It took a lot of debugging and tinkering until the game was playable the way we wanted, but when we had to return the phone we got a bit sad about not being able to continue playing.
+
+It was fun to explore the AR capabilities of the latest flagship phone boasting 3 camera's and a depth sensor. What I found especially interesting is how much more enjoyable the game became by adding sound effects for the ball and a vibration when a player scores.
+
+Here is short demo of the playthrough:
+
+<iframe src="https://www.youtube.com/embed/O0hU6fUvuYU" frameborder="0" allowfullscreen></iframe>
+
+[sdk]: https://developer.huawei.com/consumer/en/doc/20308

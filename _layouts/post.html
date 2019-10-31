@@ -4,10 +4,10 @@ layout: default
 <div class="container">
   <div class="post-title-box">
     <div class="row">
-      <div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0">
-        <span class="post__date">
+      <div class="col col-10 col-11 col-m-12 push-m-0"> <!-- had push-2 push-t-1 -->
+        <!--<span class="post__date">
           <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
-        </span>
+        </span>-->
 
         <h1 class="post-title">{{ page.title | escape }}</h1>
 
@@ -82,7 +82,7 @@ layout: default
     </div>
   </div>
 
-  <div class="container">
+  <!--<div class="container">
   <div class="post__navigation">
     {% if page.previous.url %}
     <div class="prev">
@@ -118,7 +118,7 @@ layout: default
       </p>
     </div>
     {% endif %}
-  </div>
+  </div>-->
 
   {% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
   </div>
