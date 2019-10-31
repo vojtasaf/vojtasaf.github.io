@@ -5,18 +5,18 @@ date:   2018-12-18 15:01:35 +0300
 image:  namibia.png
 tags:   UI Web App Research Angular Guidelines
 ---
-As a project for the User Interface Construction course we were developing a solution that would digitalize the process of applying for a government ID.
+As a project for the User Interface Construction course we were developing a solution that would digitalize the process of applying for a government ID in Namibia.
 
-Just like any other project, I started with research to learn about our users and the context. I managed to find a great report by ID4D that explained the procedure of applying for an Namibian ID in detail. Our first individual assignment was to compline a report that would introduce the background of the problem, identify challenges, describe the user & their task and finally describe a proposed solution in the form of an conversational interface as well as its limitations. You can check out my individual report [here][individual].
+Just like any other project, I started with **research** to learn about our users and the context. I managed to find a great report by ID4D that explained the procedure of applying for an Namibian ID in detail. Our first individual assignment was to compline a report that would introduce the background of the problem, identify challenges, describe the user & their task and propose a solution in the form of an conversational interface as well as its limitations. You can check out my individual report [here][individual].
 
-For the following group assignment I teamed up with Federico Macchi and Mario López Batres. We've been asked to eleborate on our work from the individual assignment and create an interactive GUI. As the choice of the platform and tool was entirely up to us, we decided to develop the solution using **Angular** in order to expand our skillset beyond the usual prototyping tools. You can try out our prototype [here][app] *(It is only optimized for mobile, so in case you're currently on desktop, I suggest changing the device mode - F12: Toggle device toolbar)*.
+For the following group assignment I teamed up with Federico Macchi and Mario López Batres. We've been asked to eleborate on our work from the individual assignment and create an **interactive GUI**. As the choice of the platform and tool was entirely up to us, we decided to develop the solution using **Angular** in order to expand our skillset beyond the usual prototyping tools. You can try out our prototype [here][app] *(It is only optimized for mobile, so in case you're currently on desktop, I suggest changing the device mode - F12: Toggle device toolbar)*.
 
 ![]({{ site.baseurl }}/images/screens.png)
 *Mobile Web App Prototype*
 
-My part of the development consisted of input validation, modals & the final step of the form. Our solution had to be documented in a report, where I performed guidelines review for both Nielsen's 10 Usability Heuristics and Schneiderman's 8 Golden Rules and discussed selected ones by Smith & Mosier. I also created an UML [flowchart][flowchart] describing the structure of the interaction.
+My part of the development consisted of input validation, modals & the final step of the form. Our solution had to be documented in a report, where I performed guidelines review for both **Nielsen's 10 Usability Heuristics** and **Schneiderman's 8 Golden Rules** and discussed selected guidelines from **Smith & Mosier**. I also created an **UML** [flowchart][flowchart] describing the structure of the interaction.
 
-As the application was intented to be used by all citizens, accessibility was an important consideration. Therefore we followed the WCAG 2 guidelines and checked them by an automated tool. Our solution would allow a citizen to take care of their ID card in only one visit instead of two while maintaining the needed level of security. The web application was selected as a platform since it can be easily linked to from a government website and does not require the user to install an app that they would only use once.
+As the application was intented to be used by all citizens, accessibility was an important consideration. Therefore we followed the **WCAG 2** guidelines and checked them by an automated tool. Our solution would allow a citizen to take care of their ID card in only one visit instead of two while maintaining the needed level of security. The web application was selected as a platform since it can be easily linked to from a government website and does not require the user to install an app that they would only use once.
 
 [app]: https://uic-project-aalto.firebaseapp.com/
 [individual]: /files/UIC report.pdf
