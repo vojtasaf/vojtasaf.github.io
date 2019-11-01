@@ -5,7 +5,7 @@ date:   2019-05-30 15:01:35 +0300
 image:  antexti.png
 tags:   Service_Design User Research
 ---
-Antexti is a combination of anteksi (Finnish for sorry) and texti (yeah, texts). They are messages aimed at customers when not everything has gone as it should have. And together with Sini Leskinen, Robert Roos and Olga Kornilova we made them for **Posti** - the Finnish postal service.
+Antexti is a combination of anteeksi (Finnish for sorry) and teksti (yeah, texts). They are messages aimed at customers when not everything has gone as it should have. And together with Sini Leskinen, Robert Roos and Olga Kornilova we made them for **Posti** - the Finnish postal service.
 
 While the focus of some other teams was on coming up with a brand new offering, we felt like what Posti needs is an enhancement of its **core business**.
 
@@ -44,11 +44,11 @@ I created a VPC (see [example][VPC] for Digital assistant) for each concept and 
 </div>
 *<center>Storyboard for the Apology program</center>*
 
-We got plenty of valueable feedback from the customers. Some of them really felt like Posti doesn't care.
+We got plenty of valuable feedback from the customers. Some of them really felt like Posti doesn't care.
 
 > “I haven’t heard back from Posti in 9 months.” - Disappointed customer
 
-Based on that we dediced to go forward with the Apology program and renamed it to Antexti *(credits to Karoline)*. We proceeded by creating alpha prototypes - **wireframes** of a feature to be integrated into the the existing Omaposti app and **stickers** that would be put on packages to serve both as physical apology artifact and a feedback channel linking to the app or a website.
+Based on that we dediced to go forward with the Apology program and renamed it to Antexti *(credits to Karoline)*. We proceeded by creating alpha prototypes - **wireframes** of a feature to be integrated into the the existing Omaposti app and **stickers** that would be put on packages to serve both as physical apology artefact and a feedback channel linking to the app or a website.
 
 We came up with **two variants** for the sticker design - one quite **formal** and the other one that had a more **playful** look. 
 

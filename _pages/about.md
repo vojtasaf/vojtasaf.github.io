@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Currently I’m pursuing my Master’s in **Human Computer Interaction and Design** with a minor in **Innovation and Entrepreneurship** as part of the **EIT Digital** double-degree programme.
 
-My approach to design is holistic, rooted in rigorous research. I have analytical & critical thinking and I like to question any assumptions. At the same time I know when to listen or throw wild ideas. I'm capable of facilitating the iterative design/development process, I can break down big tasks, prioritize and plan a few steps ahead while being flexible and ready to adapt in an agile fashion. I keep an eye on the business side of things and consider the ethical & societal impact of our design choices.
+My approach to design is holistic, rooted in rigorous research. I have analytical & critical thinking and I like to question any assumptions. At the same time, I know when to throw wild ideas or keep on listening. I'm capable of facilitating the iterative design/development process, I can break down big tasks, prioritize and plan a few steps ahead while being flexible and ready to adapt in an agile fashion. I keep an eye on the business side of things and consider the ethical & societal impact of our design choices.
 
 I do try to improve my skills constantly and have the [Google Analytics Individual Qualification][gaiq] as well as the [Professional Scrum Master I][psm1] certification.
 

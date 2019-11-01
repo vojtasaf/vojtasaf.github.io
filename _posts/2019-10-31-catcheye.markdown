@@ -7,7 +7,7 @@ tags:   Business_Design HelthTech Pitch
 ---
 CatchEye is a solution providing accessible and affordable retina screenings that can detect **diabetic retinopathy** - an eye disease linked to diabetes that can lead to full blindness if left untreated.
 
-I worked on this project with Naima Volz, Filip Finfando, Raschek Schestra and Feiyi Su at **EIT Digital Summer School** in Lisbon with a topic of **Longer Independent Living**, organized by [ISCTE University][iscte] and [BGI][bgi] - a startup accelerator. Together we won the award for "Best Entrepreneurial Team".
+I worked on this project with Naima Volz, Filip Finfando, Rachhek Shrestha and Feiyi Su at **EIT Digital Summer School** in Lisbon with a topic of **Longer Independent Living**, organized by [ISCTE University][iscte] and [BGI][bgi] - a startup accelerator. Together we won the award for "Best Entrepreneurial Team".
 
 <div class="wrapper">
 <img src="/images/certificate.png" class="align-center" width="30%"> <img src="/images/team.jpg" class="align-center" width="50%">
