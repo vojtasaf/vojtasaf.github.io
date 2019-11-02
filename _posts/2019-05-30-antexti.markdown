@@ -37,7 +37,7 @@ We narrowed them down to 28 with voting and **How-Now-Wow** matrix. By consideri
 * Reusable packaging
 * Apology program
 
-I created a VPC (see [example][VPC] for Digital assistant) for each concept and visualized the Apology program using a **storyboard**. We then took it, along with a storyboard for Reusable packaging and a mockup of the Digital assistant, to one of the Posti's offices to ask some real customers for their opinion.
+I created a VPC (see [example][VPC] for Digital assistant) for each concept and visualized the Apology program using a **storyboard**. We then took it, along with a storyboard for Reusable packaging and a mockup of the Digital assistant, to one of the Posti's offices and asked some real customers for their opinion.
 
 <div class="wrapper">
 <img src="/images/storyboard.png" class="align-center" width="100%">

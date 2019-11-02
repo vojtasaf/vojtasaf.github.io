@@ -15,23 +15,23 @@ I do try to improve my skills constantly and have the [Google Analytics Individu
 #### University of Trento
 <small>2019 - now</small>
 
-Second year of my Masters programme with specialization in **Cognitive Interaction**. Currently I'm learning more about Participatory Design, Affective Computing and the psychology of Social Interaction while improving my Prototyping skills.
+Second year of my Master's programme with specialization in **Cognitive Interaction**. Currently I'm learning more about Participatory Design, Affective Computing and the psychology of Social Interaction while improving my Prototyping skills.
 
 #### Aalto University
 <small>2018 - 2019</small>
 
-First year of the EIT Digital Master School. I applied for the programme since I knew I want to take a deeper dive into HCI and enjoyed studying abroad at numerous occasions (exchange in the US & BEST Summer courses). Aalto has been the best university I studied at and allowed me to pursue my interests by taking courses such as Digital Ethics (take a look at our [poster][poster]), FinTech Seminar (check out my [essay][psd2] on PSD2) or Design for Transhuman Systems. No wonder I ended up with 14 credits more than required.
+First year of the [EIT Digital Master School][eit]. I applied for the programme since I knew that I want to take a deeper dive into HCI and enjoyed studying abroad at numerous occasions before (exchange in the US & BEST Summer courses). Aalto has been the best university I studied at and allowed me to pursue my interests by taking courses such as Digital Ethics (take a look at our [poster][poster]), FinTech Seminar (check out my [essay][psd2] on PSD2) or Design for Transhuman Systems. No wonder I ended up with 14 credits more than required.
 
 #### Czech Technical University in Prague
 <small>2014 - 2018</small>
 
-Bachelors in **Informatics** at the Faculty of Information Technology, majoring in **Information Systems and Management**.
+Bachelor in **Informatics** at the [Faculty of Information Technology][fit], majoring in **Information Systems and Management**.
 Studying here gave me solid technical foundations in IT and plenty of interesting courses to take such as 3D Printing, Data Mining, Managerial Psychology or Law and Informatics.
 
 #### University of Texas at El Paso
 <small>Fall 2016</small>
 
-Semester abroad studying Computer Science. This is where I found out about HCI as field of study thanks to prof. Nigel Ward's course. I took the class as I believed that it would help me improve at my job at the CTU's Computing and Information Centre back in Prague. I enjoy the class very much scored among the best students that ever took it. Another intriguining class that I had was SW Reverse Engineering with practical projects streghtening my awareness in terms of computer security. Also learned a bit of Spanish.
+Semester abroad spent studying Computer Science. This is where I found out about HCI as field of study thanks to prof. Nigel Ward's course. I took his class as I believed that it would help me improve doing my job at the CTU's Computing and Information Centre back in Prague. I enjoyed that class very much and scored among the best students that ever took it. Another intriguining class that I had was SW Reverse Engineering with practical projects streghtening my awareness in terms of computer security. Also learned a bit of Spanish.
 
 ***
 ## Work experience:
@@ -55,6 +55,8 @@ Part-time job consisting of testing, specifying requirements with the product ow
 </div>
 *<center>Before & after the redesign</center>*
 
+[fit]: https://fit.cvut.cz/en
+[eit]: https://masterschool.eitdigital.eu/
 [gaiq]: /files/GAIQ.pdf
 [psm1]: /files/PSM1.pdf
 [poster]: /files/poster.pdf
