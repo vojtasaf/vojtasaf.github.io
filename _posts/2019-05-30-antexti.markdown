@@ -48,7 +48,7 @@ We got plenty of valuable feedback from the customers. Some of them really felt 
 
 > “I haven’t heard back from Posti in 9 months.” - Disappointed customer
 
-Based on that we dediced to go forward with the Apology program and renamed it to Antexti *(credits to Karoline)*. We proceeded by creating alpha prototypes - **wireframes** of a feature to be integrated into the the existing Omaposti app and **stickers** that would be put on packages to serve both as physical apology artefact and a feedback channel linking to the app or a website.
+Based on that we dediced to go forward with the Apology program and renamed it to Antexti *(credits to Karoline)*. We proceeded by creating alpha prototypes - **wireframes** of a feature to be integrated into the the existing Omaposti app using **Adobe XD** and **stickers** that would be put on packages to serve both as physical apology artefact and a feedback channel linking to the app or a website.
 
 We came up with **two variants** for the sticker design - one quite **formal** and the other one that had a more **playful** look. 
 

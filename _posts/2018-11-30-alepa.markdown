@@ -23,7 +23,7 @@ We went through all of our interviews, transcribed them, and together with respo
 </div>
 *<center>Affinity diagram mapping</center>*
 
-Based on our research we created a [stakeholder map][stakeholders], compiled [personas][personas] and mapped the [customer journey][journey].
+Based on our research we compiled [personas][personas] and I created a [stakeholder map][stakeholders] and mapped the [customer journey][journey] using **Lucidchart**.
 
 For a quick summary of our project, methods and findings, take a look at [this poster][poster]. Overall we found out that the usability of Alepa City bikes is quite good with a **SUS score** of **75/100**. People like that they are a healthy, ecological way to commute. They find them easy to use and cheap. However we also identified problems - the station coverage is low, in particular in Otaniemi, and some of the stations are often empty. Sometimes user have issues when returning the bikes.
 

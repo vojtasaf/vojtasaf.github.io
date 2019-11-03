@@ -20,7 +20,7 @@ The COO role then rotated as did the role of a pitcher. One of our pitches was m
 
 During our ongoing research we realized the importance of finding the right geographical area to start with and we have made [website][website] to engage our potential users in locating it. We identified supermarkets in **suburban areas** as a promising location and ran an **experiment** there by offering rides to customer as they were walking out (of course with the permission of the supermarket staff). As the service was of course not ready yet, we had candy prepared for those keen to accept our offer. This helped us confirm the customer need.
 
-Together with Ling and Mario we have also made a rough [prototype][prototype] to test our concept with users and demostrate how it would work.
+Together with Ling and Mario we have also made a rough [prototype][prototype] using **Sketch** and **InVision** to test our concept with users and demostrate how it would work.
 
 Marketing is another important aspect of start-ups success so we had to make **posters**, create presence on **social media** and during one of the latter sprints we shot a **promotional video** in a only couple of hours during class:
 
