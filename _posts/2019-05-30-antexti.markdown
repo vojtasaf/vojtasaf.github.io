@@ -37,7 +37,7 @@ We narrowed them down to 28 with voting and **How-Now-Wow** matrix. By consideri
 * Reusable packaging
 * Apology program
 
-I created a VPC (see [example][VPC] for Digital assistant) for each concept and visualized the Apology program using a **storyboard**. We then took it, along with a storyboard for Reusable packaging and a mockup of the Digital assistant, to one of the Posti's offices and asked some real customers for their opinion.
+I created a VPC for each concept (see an [example][VPC] for Digital assistant) and visualized the Apology program using a **storyboard**. We then took it, along with a storyboard for Reusable packaging and a mockup of the Digital assistant, to one of the Posti's offices and asked some real customers for their opinion.
 
 <div class="wrapper">
 <img src="/images/storyboard.png" class="align-center" width="100%">
@@ -70,10 +70,11 @@ Our solution also had to make sense for Posti from **the business perspective**.
 
 In our final user tests we found out that what customer most appreciated about our solution what the **proactiveness** and **acknowledgement** of a problem. The compensation that was meant to be part of our concept was not as important as the feeling that Posti cares about you as a customer.
 
-At the final gala, where we presented Antexti to **employees of Posti** we got greats responses and engaged in several conversations about how this could help the company.
+At the **final gala** we presented Antexti to **employees of Posti** and got a great response. We also engaged in several conversations about how this could help the company during the subsequent poster session, where we went into detail in explaining the proposed [user journey][poster].
 
 Throughout the project we had the support of our **mentors** at [Digitalist][digitalist] - Tatyana Chuzhanova and Karoline Kwon, who helped us greatly by giving us feedback on our progress, suggested methods that we could use and discussed our plans. Huge thanks to them for making the time to meet with us each and every Sprint!
 
 [digitalist]: https://digitalist.global/
 [survey]: https://forms.gle/Z2QcjU2iV4Yyn7Gb9
 [VPC]: /files/VPC.pdf
+[poster]: /files/Antexti poster.pdf

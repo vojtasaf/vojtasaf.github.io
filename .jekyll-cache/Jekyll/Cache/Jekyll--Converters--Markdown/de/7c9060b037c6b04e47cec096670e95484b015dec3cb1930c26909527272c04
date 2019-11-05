@@ -1,0 +1,74 @@
+I"S<p>Antexti is a combination of anteeksi (Finnish for sorry) and teksti (yeah, texts). They are messages aimed at customers when not everything has gone as it should have. And together with Sini Leskinen, Robert Roos and Olga Kornilova we made them for <strong>Posti</strong> - the Finnish postal service.</p>
+
+<p>While the focus of some other teams was on coming up with a brand new offering, we felt like what Posti needs is an enhancement of its <strong>core business</strong>.</p>
+
+<p>You might be thinking that developing a service specifically designed to apologize for a service is sort of a crazy idea. But the fact is that even though <strong>97%</strong> of parcels make it to their destination without any issue, people tend to be very upset about the remaning <strong>3%</strong> that end up being late or possibly somewhere else.</p>
+
+<p>This concept didn’t come out of the blue though. We started by looking at what problems we could solve for Posti’s customers and conducted research to validate them. In order to do that we have done <strong>semi-structured interviews</strong>, collected responses to our <strong>survey</strong> asking about people’s experinces with using Posti’s services, performed <strong>observations</strong> and experiments.</p>
+
+<p>I created the <a href="https://forms.gle/Z2QcjU2iV4Yyn7Gb9">online survey</a> that we shared via Facebook and performed an <strong>experiment</strong> that was trying to validate the difficulty of sending a package.</p>
+
+<details>
+  <summary>Click to see the full description of how I conducted my experiment!</summary>
+
+<i>First I went to 2 Posti offices and asked the staff for the best way to send a pair of bluetooth headphones back home to Prague. This provided me with a benchmark of a suitable service for my scenario.</i>
+<br />
+<i>Then I approached 5 people at the Oodi library, asking them whether they would be willing to take part in an experiment and agreed to the audio being recorded. If so, I proceeded by presenting them with the object, described the scenario and asked the how they would advise me to send the package in the cheapest and fastest way possible.</i>
+<br />
+<i>4 of 5 were unsure and even when going through the Posti's website they were unable to find service recommended at the offices. The only respondent that suggested sending the headphones as a letter rather than a package knew so thanks to personal experience of sending chocolate to a friend in Italy. I concluded that additional guidance is necessary without previous knowledge.</i>
+</details>
+<p><br />
+After sharing the results of our research with the rest of the group we proceeded by generaring ideas. By using the brainwriting method we came up with <strong>183 ideas</strong>.</p>
+
+<div class="wrapper">
+<img src="/images/ideas.jpg" class="align-center" width="80%" />
+</div>
+<p><em><center>Brainwriting at ideation meeting</center></em></p>
+
+<p>We narrowed them down to 28 with voting and <strong>How-Now-Wow</strong> matrix. By considering the feasibility, viability and desirability of them we selected 9 and after consulting with Posti representatives a merging some of them we ended up with our <strong>3 final concepts</strong>:</p>
+<ul>
+  <li>Digital assistant for sending packages</li>
+  <li>Reusable packaging</li>
+  <li>Apology program</li>
+</ul>
+
+<p>I created a VPC for each concept (see an <a href="/files/VPC.pdf">example</a> for Digital assistant) and visualized the Apology program using a <strong>storyboard</strong>. We then took it, along with a storyboard for Reusable packaging and a mockup of the Digital assistant, to one of the Posti’s offices and asked some real customers for their opinion.</p>
+
+<div class="wrapper">
+<img src="/images/storyboard.png" class="align-center" width="100%" />
+</div>
+<p><em><center>Storyboard for the Apology program</center></em></p>
+
+<p>We got plenty of valuable feedback from the customers. Some of them really felt like Posti doesn’t care.</p>
+
+<blockquote>
+  <p>“I haven’t heard back from Posti in 9 months.” - Disappointed customer</p>
+</blockquote>
+
+<p>Based on that we dediced to go forward with the Apology program and renamed it to Antexti <em>(credits to Karoline)</em>. We proceeded by creating alpha prototypes - <strong>wireframes</strong> of a feature to be integrated into the the existing Omaposti app using <strong>Adobe XD</strong> and <strong>stickers</strong> that would be put on packages to serve both as physical apology artefact and a feedback channel linking to the app or a website.</p>
+
+<p>We came up with <strong>two variants</strong> for the sticker design - one quite <strong>formal</strong> and the other one that had a more <strong>playful</strong> look.</p>
+
+<div class="wrapper">
+<img src="/images/stickers.png" class="align-center" width="75%" />
+</div>
+<p><em><center>Two sticker variants: playful or formal?</center></em></p>
+
+<p>In order to decide inbetween them we conducted an <strong>A/B test</strong>. We glued them on 30 envelopes (15 with each design), inserted a letter with an explaination of our concept and QR code linking to a survey. Then we put the envelopes in random postboxes around Otaniemi.</p>
+
+<div class="wrapper">
+<img src="/images/letters.png" class="align-center" width="80%" />
+</div>
+<p><em><center>Letter workshop for our A/B test</center></em></p>
+
+<p>Due to the higher response rate and getting more positive comments we chose the playful design. We gathered more feedback by user testing our wireframes and doing some additional interviews. All of that served as an input for refining the concept in our beta prototypes.</p>
+
+<p>Our solution also had to make sense for Posti from <strong>the business perspective</strong>. Though not bringing any direct revenue, we outlined how it could improve other imporant metrics such as <strong>CLTV</strong> (Customer Lifetime Value) and <strong>NPS</strong> (Net Promoter Score) while <strong>reducing costs</strong> incurred by calls to Customer Support, each of which costs Posti 5€ on average. Additionally mitigating some of the negative feedback that Posti gets on social media would improve the <strong>brand image</strong>.</p>
+
+<p>In our final user tests we found out that what customer most appreciated about our solution what the <strong>proactiveness</strong> and <strong>acknowledgement</strong> of a problem. The compensation that was meant to be part of our concept was not as important as the feeling that Posti cares about you as a customer.</p>
+
+<p>At the <strong>final gala</strong> we presented Antexti to <strong>employees of Posti</strong> and got a great response. We also engaged in several conversations about how this could help the company during the subsequent poster session, where we went into detail in explaining the proposed <a href="/files/Antexti poster.pdf">user journey</a>.</p>
+
+<p>Throughout the project we had the support of our <strong>mentors</strong> at <a href="https://digitalist.global/">Digitalist</a> - Tatyana Chuzhanova and Karoline Kwon, who helped us greatly by giving us feedback on our progress, suggested methods that we could use and discussed our plans. Huge thanks to them for making the time to meet with us each and every Sprint!</p>
+
+:ET

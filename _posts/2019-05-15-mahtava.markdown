@@ -20,9 +20,12 @@ The COO role then rotated as did the role of a pitcher. One of our pitches was m
 
 During our ongoing research we realized the importance of finding the right geographical area to start with and we have made [website][website] to engage our potential users in locating it. We identified supermarkets in **suburban areas** as a promising location and ran an **experiment** there by offering rides to customer as they were walking out (of course with the permission of the supermarket staff). As the service was of course not ready yet, we had candy prepared for those keen to accept our offer. This helped us confirm the customer need.
 
-Together with Ling and Mario we have also made a rough [prototype][prototype] using **Sketch** and **InVision** to test our concept with users and demostrate how it would work.
+Together with Ling and Mario we made prototypes to test our concept with users and demostrate how it would work. We started on paper and gathered the first feedback using the **Wizard of Oz** technique with post-its in place of interactive elements. Then we moved on to **Sketch** and **InVision** and made a rough [prototype][prototype], which was then redesigned in the [next iteration][iteration].
 
-Marketing is another important aspect of start-ups success so we had to make **posters**, create presence on **social media** and during one of the latter sprints we shot a **promotional video** in a only couple of hours during class:
+![]({{ site.baseurl }}/images/fidelity.png)
+*The incresing fidelity of our prototypes*
+
+Marketing is another important aspect of start-ups success so we had to make **posters**, create presence on **social media** and during one of the latter sprints we recorded this **promotional video** in a only couple of hours during class:
 
 <iframe src="https://www.youtube.com/embed/xW-nx60xmmM" frameborder="0" allowfullscreen></iframe>
 <br>
@@ -34,6 +37,7 @@ Working on this project has truly been quite an experience. I've freezing outsid
 
 [website]: https://mahtava-oy.firebaseapp.com/
 [prototype]: https://invis.io/U9R6O398QXC
+[iteration]: https://invis.io/7TRD0W4WS9Y
 [video]: https://www.youtube.com/watch?v=xW-nx60xmmM
 [pitch]: https://www.youtube.com/watch?v=HNM1QWPTxfk
 [coo]: /files/COO report.pdf

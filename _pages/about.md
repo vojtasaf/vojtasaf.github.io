@@ -5,9 +5,9 @@ permalink: /about/
 ---
 Currently I’m pursuing my Master’s in **Human Computer Interaction and Design** with a minor in **Innovation and Entrepreneurship** as part of the **EIT Digital** double-degree programme.
 
-My approach to design is holistic, rooted in rigorous research. I have analytical & critical thinking and I like to question any assumptions. At the same time, I know when to throw wild ideas or keep on listening. I'm capable of facilitating the iterative design/development process, I can break down big tasks, prioritize and plan a few steps ahead while being flexible and ready to adapt in an agile fashion. I keep an eye on the business side of things and consider the ethical & societal impact of our design choices.
+My approach to design is holistic, rooted in rigorous research. I have analytical & critical thinking and I like to question any assumptions. At the same time, I know when to throw wild ideas or keep on listening. I'm capable of facilitating the iterative design/development process, I can break down big tasks, prioritize and plan a few steps ahead while being flexible and ready to adapt in an agile fashion. I keep an eye on the business side of things and consider the ethical & societal impact of our design choices.
 
-I do try to improve my skills constantly and have the [Google Analytics Individual Qualification][gaiq] as well as the [Professional Scrum Master I][psm1] certification.
+I do try to improve my skills constantly and I have completed the [Google Analytics Individual Qualification][gaiq] as well as the [Professional Scrum Master I][psm1] certification.
 
 ***
 
@@ -20,7 +20,7 @@ Second year of my Master's programme with specialization in **Cognitive Interact
 #### Aalto University
 <small>2018 - 2019</small>
 
-First year of the [EIT Digital Master School][eit]. I applied for the programme since I knew that I want to take a deeper dive into HCI and enjoyed studying abroad at numerous occasions before (exchange in the US & BEST Summer courses). Aalto has been the best university I studied at and allowed me to pursue my interests by taking courses such as Digital Ethics (take a look at our [poster][poster]), FinTech Seminar (check out my [essay][psd2] on PSD2) or Design for Transhuman Systems. No wonder I ended up with 14 credits more than required.
+First year of the [EIT Digital Master School][eit]. I applied for the programme since I knew that I want to take a deeper dive into HCI and enjoyed studying abroad at numerous occasions before (exchange in the US & [BEST][best] Summer courses). Aalto has been the best university I studied at and allowed me to pursue my interests by taking courses such as Digital Ethics (take a look at our [poster][poster]), FinTech Seminar (check out my [essay][psd2] on PSD2) or Design for Transhuman Systems. No wonder I ended up with 14 credits more than required.
 
 #### Czech Technical University in Prague
 <small>2014 - 2018</small>
@@ -57,6 +57,7 @@ Part-time job consisting of testing, specifying requirements with the product ow
 
 [fit]: https://fit.cvut.cz/en
 [eit]: https://masterschool.eitdigital.eu/
+[best]: https://www.best.eu.org/
 [gaiq]: /files/GAIQ.pdf
 [psm1]: /files/PSM1.pdf
 [poster]: /files/poster.pdf
