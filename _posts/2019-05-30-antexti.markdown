@@ -44,7 +44,7 @@ I created a VPC for each concept (see an [example][VPC] for Digital assistant) a
 </div>
 *<center>Storyboard for the Apology program</center>*
 
-We got plenty of valuable feedback from the customers. Some of them really felt like Posti doesn't care.
+We got plenty of valuable feedback from the customers. Some of them genuinely felt like Posti doesn't care about them.
 
 > “I haven’t heard back from Posti in 9 months.” - Disappointed customer
 
@@ -66,7 +66,7 @@ In order to decide inbetween them we conducted an **A/B test**. We glued them on
 
 Due to the higher response rate and getting more positive comments we chose the playful design. We gathered more feedback by user testing our wireframes and doing some additional interviews. All of that served as an input for refining the concept in our beta prototypes.
 
-Our solution also had to make sense for Posti from **the business perspective**. Though not bringing any direct revenue, we outlined how it could improve other imporant metrics such as **CLTV** (Customer Lifetime Value) and **NPS** (Net Promoter Score) while **reducing costs** incurred by calls to Customer Support, each of which costs Posti 5€ on average. Additionally mitigating some of the negative feedback that Posti gets on social media would improve the **brand image**.
+Our solution also had to make sense for Posti from **the business perspective**. Though not bringing any direct revenue, we outlined how it could improve other imporant metrics such as **CLTV** (Customer Lifetime Value) and **NPS** (Net Promoter Score) while **reducing costs** incurred by calls to Customer Support, each of which costs Posti 5€ on average. Additionally mitigating some of the negative feedback that Posti gets on social media would improve the **brand image**. We documented the key components of the suggested business model using the BMC (Business Model Canvas).
 
 In our final user tests we found out that what customer most appreciated about our solution what the **proactiveness** and **acknowledgement** of a problem. The compensation that was meant to be part of our concept was not as important as the feeling that Posti cares about you as a customer.
 
