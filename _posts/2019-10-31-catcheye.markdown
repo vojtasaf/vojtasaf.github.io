@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "CatchEye: business design in HelthTech"
-date:   2019-10-29 15:01:35 +0300
-image:  catcheye.png
-tags:   Business_Design HelthTech Pitch
+title: "CatchEye: business design in HelthTech"
+date: 2019-10-29 15:01:35 +0300
+image: catcheye.png
+tags: Business_Design HelthTech Pitch
 ---
+
 CatchEye is a solution providing accessible and affordable retina screenings that can detect **diabetic retinopathy** - an eye disease linked to diabetes that can lead to full blindness if left untreated.
 
 I worked on this project with Naima Volz, Filip Finfando, Rachhek Shrestha and Feiyi Su at **EIT Digital Summer School** in Lisbon with a topic of **Longer Independent Living**, organized by [ISCTE University][iscte] and [BGI][bgi] - a startup accelerator. Together we won the award for "Best Entrepreneurial Team".
@@ -38,7 +39,7 @@ Our research has definitely paid off as were able to support our claims with sta
 
 A study from the US shows that 60% of diabetics miss their **annual screenings** at an opthalmologist, which is the only way to prevent this condition from developing further. Our device can eliminate the need for an expertise of an opthalmologist by using an **AI algorithm** that can identify sign of diabetic retinopathy in the images caputer by the EyeFundusScope.
 
-The choice of going with the US as a beachhead market was justified by the **high prevalence** of diabetes with 19 million diagnosed cases and a **high price** for an eye exam that can detect diabetic retinopathy at $116 on average.
+The choice of going with the US as a beachhead market was justified by the **high prevalence** of diabetes with 19 million diagnosed cases and a **high price** for an eye exam that can detect diabetic retinopathy at \$116 on average.
 
 We took care in polishing our pitch and prepared a good story. As we were pitching to a jury knowledgeable in the healthcare industry we had to be **accurate** - not saying diagnosis, when we mean screening, knowing the difference between an optician, optometrist and an opthalmologist and not confusing FDA premarket notification with the FDA approval.
 
@@ -53,12 +54,12 @@ We calculated the **financials** by estimating the cost of salaries, manufacturi
 
 Based on that we asked for adequate funding to give us enough **runway** to get through several stages of our go-to-market plan. With our calculations we expected to **break-even** in **3 years** and showed the projected revenue for each year after launch.
 
-Naima did a great job delivering the final pitch. And as we expected the jury to ask some questions, we even had a couple of backup slides ready. 
+Naima did a great job delivering the final pitch. And as we expected the jury to ask some questions, we even had a couple of backup slides ready.
 
 Since we won the Summer School, I got my turn to repeat our **pitch** to serve as an example for the approx. 400 new students at the **EIT Digital Master School Kick-off** in Trento before they started with their business challenge.
 
 <div class="wrapper">
-<img src="/images/kickoff.jpg" class="align-center" width="50%">
+<img src="/images/pitch.jpg" class="align-center" width="80%">
 </div>
 *<center>CatchEye pitch at Kick-off</center>*
 
@@ -70,4 +71,5 @@ And if you are a diabetic or know someone who is - **don't skip the eye exams!**
 [fraunhofer]: https://www.aicos.fraunhofer.pt/en/home.html
 [iscte]: https://www.iscte-iul.pt/
 [bgi]: https://www.bgi.pt/
+
 [report]: /files/CatchEye report.pdf
